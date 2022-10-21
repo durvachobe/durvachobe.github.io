@@ -150,7 +150,7 @@ a:active {
 
 .rect-btn {
   border-radius: 24px;
-  padding: 0px 16px;
+  padding: 0px 32px 0px 16px;
   margin: 16px auto;
 }
 .rect-btn span {
